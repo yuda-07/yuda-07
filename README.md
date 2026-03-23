@@ -10,4 +10,4 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuda-07&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuda-07&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuda-07&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
